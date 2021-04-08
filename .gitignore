@@ -378,4 +378,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,java,code-java,bluej,eclipse

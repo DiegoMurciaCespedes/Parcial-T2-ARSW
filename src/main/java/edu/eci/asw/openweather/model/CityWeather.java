@@ -10,7 +10,7 @@ public class CityWeather {
     private long dt;
     private Sys sys;
     private String name;
-
+    
     public CityWeather(Coord coord, Weather weather, String base, Main main, int visibility, Wind wind, int clouds, long dt, Sys sys, int timezone, int id, String name) {
         this.setCoord(coord);
         this.setWeather(weather);
